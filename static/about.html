@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>关于 - 每日 AI 资讯日报</title>
+    <link rel="stylesheet" href="css/style.css">
+    <style>
+        /* 关于页额外样式 */
+        .about-section {
+            max-width: 680px;
+            margin: 0 auto;
+        }
+        .about-block {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: var(--radius-md);
+            padding: 24px;
+            margin-bottom: 20px;
+            box-shadow: var(--shadow-sm);
+            transition: var(--transition);
+        }
+        .about-block:hover { box-shadow: var(--shadow-md); }
+        .about-block h2 {
+            font-size: 16px;
+            font-weight: 700;
+            margin-bottom: 12px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .about-block p,
+        .about-block li {
+            font-size: 14px;
+            color: var(--text-secondary);
+            line-height: 1.9;
+        }
+        .about-block ul { padding-left: 20px; }
+        .about-block li { margin-bottom: 4px; }
+        .cat-legend {
+            display: flex;
+            gap: 12px;
+            flex-wrap: wrap;
+            margin-top: 8px;
+        }
+        .cat-legend span {
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
+            font-size: 13px;
+            font-weight: 500;
+        }
+        .cat-legend .dot {
+            width: 10px; height: 10px;
+            border-radius: 50%;
+            display: inline-block;
+        }
+        .source-list {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 10px;
+            margin-top: 8px;
+        }
+        .source-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            padding: 8px 12px;
+            background: var(--bg);
+            border-radius: var(--radius-sm);
+            font-size: 13px;
+            color: var(--text-secondary);
+        }
+        .source-icon { font-size: 16px; }
+        .update-info {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            padding: 10px 14px;
+            background: rgba(74,144,217,.08);
+            border-radius: var(--radius-sm);
+            font-size: 13px;
+            color: var(--c-tech);
+            font-weight: 500;
+            margin-top: 8px;
+        }
+        @media (max-width: 640px) {
+            .source-list { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+    <!-- 导航 -->
+    <nav class="navbar">
+        <div class="nav-inner">
+            <a href="index.html" class="nav-logo">
+                <span class="logo-icon">✦</span>
+                <span class="logo-text">AI 日报</span>
+            </a>
+            <div class="nav-links">
+                <a href="index.html" class="nav-link">今日</a>
+                <a href="archive.html" class="nav-link">历史</a>
+                <a href="about.html" class="nav-link active">关于</a>
+            </div>
+            <button class="theme-toggle" id="themeToggle" aria-label="切换主题">
+                <span class="theme-icon">🌙</span>
+            </button>
+        </div>
+    </nav>
+
+    <main class="main-content about-section">
+        <header class="daily-header">
+            <h1 class="daily-title">关于本项目</h1>
+            <p class="daily-desc">了解每日 AI 资讯日报的数据来源、更新机制和分类说明</p>
+        </header>
+
+        <!-- 功能说明 -->
+        <div class="about-block">
+            <h2>📖 项目简介</h2>
+            <p>每日 AI 资讯日报是一个自动化的 AI 资讯聚合项目，每日自动抓取全球 AI 领域最新动态，经过 AI 整理后生成简洁易读的日报，无需人工干预。</p>
+        </div>
+
+        <!-- 分类说明 -->
+        <div class="about-block">
+            <h2>🏷️ 内容分类</h2>
+            <p>每日固定 10 条内容，分为四大类：</p>
+            <div class="cat-legend" style="margin-top:12px">
+                <span><span class="dot" style="background:#4A90D9"></span>技术动态（2条）</span>
+                <span><span class="dot" style="background:#8B5CF6"></span>AI 论文（3条）</span>
+                <span><span class="dot" style="background:#10B981"></span>新产品（3条）</span>
+                <span><span class="dot" style="background:#F59E0B"></span>行业热点（2条）</span>
+            </div>
+            <ul style="margin-top:12px">
+                <li><strong>技术动态</strong>：GitHub 热门 AI 项目、开源工具更新</li>
+                <li><strong>AI 论文</strong>：arXiv 最新人工智能学术论文</li>
+                <li><strong>新产品</strong>：Hugging Face 最新模型、AI 工具发布</li>
+                <li><strong>行业热点</strong>：AI 行业新闻、热点讨论</li>
+            </ul>
+        </div>
+
+        <!-- 数据来源 -->
+        <div class="about-block">
+            <h2>🔗 数据来源</h2>
+            <div class="source-list">
+                <div class="source-item"><span class="source-icon">🐙</span> GitHub Trending</div>
+                <div class="source-item"><span class="source-icon">📄</span> arXiv 论文库</div>
+                <div class="source-item"><span class="source-icon">🤗</span> Hugging Face</div>
+                <div class="source-item"><span class="source-icon">🔥</span> Hacker News</div>
+            </div>
+        </div>
+
+        <!-- 更新时间 -->
+        <div class="about-block">
+            <h2>⏰ 更新频率</h2>
+            <div class="update-info">🤖 每日自动更新一次，通过 GitHub Actions 自动运行爬虫并部署</div>
+            <p style="margin-top:10px">爬虫每日（UTC+8 早上 8:00）自动运行，抓取最新内容并更新网页，全程无需人工操作。</p>
+        </div>
+
+        <!-- 技术栈 -->
+        <div class="about-block">
+            <h2>🛠️ 技术栈</h2>
+            <ul>
+                <li><strong>爬虫</strong>：Python（requests）</li>
+                <li><strong>前端</strong>：纯 HTML + CSS + JavaScript（无框架）</li>
+                <li><strong>自动化</strong>：GitHub Actions</li>
+                <li><strong>部署</strong>：GitHub Pages</li>
+                <li><strong>存储</strong>：JSON 文件（无数据库）</li>
+            </ul>
+        </div>
+
+        <!-- 开源 -->
+        <div class="about-block">
+            <h2>💻 开源地址</h2>
+            <p>本项目为开源项目，你可以在 GitHub 上查看完整源码、提交 Issue 或参与贡献。</p>
+            <a href="https://github.com/" target="_blank" style="display:inline-block;margin-top:10px;padding:8px 18px;background:var(--c-tech);color:#fff;border-radius:20px;font-size:13px;font-weight:600;transition:var(--transition)">前往 GitHub →</a>
+        </div>
+    </main>
+
+    <script>
+        /* 主题切换（与首页一致） */
+        const $themeBtn = document.getElementById("themeToggle");
+        function initTheme() {
+            const saved = localStorage.getItem("ai-daily-theme");
+            if (saved === "dark" || (!saved && window.matchMedia("(prefers-color-scheme: dark)").matches)) {
+                document.documentElement.setAttribute("data-theme", "dark");
+                $themeBtn.querySelector(".theme-icon").textContent = "☀️";
+            }
+        }
+        function toggleTheme() {
+            const isDark = document.documentElement.getAttribute("data-theme") === "dark";
+            if (isDark) {
+                document.documentElement.removeAttribute("data-theme");
+                $themeBtn.querySelector(".theme-icon").textContent = "🌙";
+                localStorage.setItem("ai-daily-theme", "light");
+            } else {
+                document.documentElement.setAttribute("data-theme", "dark");
+                $themeBtn.querySelector(".theme-icon").textContent = "☀️";
+                localStorage.setItem("ai-daily-theme", "dark");
+            }
+        }
+        initTheme();
+        $themeBtn.addEventListener("click", toggleTheme);
+    </script>
+</body>
+</html>

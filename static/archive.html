@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>历史日报 - 每日 AI 资讯</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <!-- 导航 -->
+    <nav class="navbar">
+        <div class="nav-inner">
+            <a href="index.html" class="nav-logo">
+                <span class="logo-icon">✦</span>
+                <span class="logo-text">AI 日报</span>
+            </a>
+            <div class="nav-links">
+                <a href="index.html" class="nav-link">今日</a>
+                <a href="archive.html" class="nav-link active">历史</a>
+                <a href="about.html" class="nav-link">关于</a>
+            </div>
+            <button class="theme-toggle" id="themeToggle" aria-label="切换主题">
+                <span class="theme-icon">🌙</span>
+            </button>
+        </div>
+    </nav>
+
+    <main class="main-content">
+        <header class="daily-header">
+            <h1 class="daily-title">历史日报</h1>
+            <p class="daily-desc">按日期浏览往期 AI 资讯日报，每日 10 条精选内容。</p>
+        </header>
+
+        <!-- 日期列表 -->
+        <section class="archive-section">
+            <div class="archive-list" id="archiveList">
+                <div class="loading-state" id="loadingState">
+                    <div class="loading-spinner"></div>
+                    <p>正在加载历史记录...</p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <script src="js/archive.js"></script>
+</body>
+</html>
