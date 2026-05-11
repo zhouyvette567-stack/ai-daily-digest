@@ -23,7 +23,7 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 }
 
-DATA_DIR = Path(__file__).parent.parent / "data"
+DATA_DIR = Path(__file__).parent.parent / "static" / "data"
 OUTPUT_FILE = DATA_DIR / "latest.json"
 
 # 分类颜色映射

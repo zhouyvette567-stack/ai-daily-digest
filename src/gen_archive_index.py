@@ -8,7 +8,7 @@
 import json
 from pathlib import Path
 
-DATA_DIR = Path(__file__).parent.parent / "data"
+DATA_DIR = Path(__file__).parent.parent / "static" / "data"
 ARCHIVE_DIR = DATA_DIR / "archive"
 INDEX_FILE = ARCHIVE_DIR / "index.json"
 
