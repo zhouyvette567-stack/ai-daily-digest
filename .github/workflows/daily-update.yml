@@ -42,7 +42,7 @@ jobs:
         run: |
           git config user.name "ai-daily-bot"
           git config user.email "bot@ai-daily.github.io"
-          git add data/
+          git add static/data/
           if git diff --staged --quiet; then
             echo "没有内容变更，跳过提交"
           else
@@ -53,9 +53,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: 🌐 部署到 GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./static
-          # 如果 JSON 数据也在同一分支，需要同时保留 data 目录
-          keep_files: true
+          force_orphan: false
+          enable_jekyll: false
