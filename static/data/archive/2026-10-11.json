@@ -1,0 +1,90 @@
+{
+  "date": "2026-10-11",
+  "datetime": "2026-10-11 11:01:59",
+  "total": 8,
+  "items": [
+    {
+      "title": "NousResearch/hermes-agent",
+      "summary": "The agent that grows with you",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "category": "技术动态",
+      "source": "GitHub",
+      "stars": 252570,
+      "id": 1,
+      "date": "2026-10-11",
+      "color": "#4A90D9"
+    },
+    {
+      "title": "CSF: Contextual Safety Filtering for Motion Generators",
+      "summary": "Text-conditioned motion generators produce trackable whole-body motion, but they have no notion of scene-dependent safety: the same action may target an object or a person. Existing safeguards either ",
+      "url": "http://arxiv.org/abs/2610.12467v1",
+      "category": "AI论文",
+      "source": "arXiv",
+      "id": 2,
+      "date": "2026-10-11",
+      "color": "#8B5CF6"
+    },
+    {
+      "title": "On the estimation and validity of AI time horizons---a statistical look at the METR plot",
+      "summary": "METR's 50\\% time horizon measures the human completion time of software tasks that an AI solves with 50\\% probability, allowing AI capabilities to be expressed in interpretable units. On 228 tasks and",
+      "url": "http://arxiv.org/abs/2610.12466v1",
+      "category": "AI论文",
+      "source": "arXiv",
+      "id": 3,
+      "date": "2026-10-11",
+      "color": "#8B5CF6"
+    },
+    {
+      "title": "A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control",
+      "summary": "General-purpose robots must perform a wide range of tasks from agile locomotion to dexterous manipulation. While sim-to-real reinforcement learning (RL) has proven to be a useful tool for this goal, c",
+      "url": "http://arxiv.org/abs/2610.12465v1",
+      "category": "AI论文",
+      "source": "arXiv",
+      "id": 4,
+      "date": "2026-10-11",
+      "color": "#8B5CF6"
+    },
+    {
+      "title": "Ask HN: If you work at an enterprise, do you use Open Source LLM or GPT?",
+      "summary": "Hacker News 热点讨论，2 点赞",
+      "url": "https://news.ycombinator.com/item?id=38503835",
+      "category": "行业热点",
+      "source": "Hacker News",
+      "points": 2,
+      "id": 5,
+      "date": "2026-10-11",
+      "color": "#F59E0B"
+    },
+    {
+      "title": "Ask HN: Have LLM or generative AI made you more productive?",
+      "summary": "Hacker News 热点讨论，2 点赞",
+      "url": "https://news.ycombinator.com/item?id=41742430",
+      "category": "行业热点",
+      "source": "Hacker News",
+      "points": 2,
+      "id": 6,
+      "date": "2026-10-11",
+      "color": "#F59E0B"
+    },
+    {
+      "title": "From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents",
+      "summary": "In 2026, cybersecurity evaluations involving OpenAI, Anthropic, and Google agents reached real systems outside their authorized test scope. The paths were different. OpenAI agents exploited research i",
+      "url": "http://arxiv.org/abs/2610.12463v1",
+      "category": "AI论文",
+      "source": "arXiv",
+      "id": 7,
+      "date": "2026-10-11",
+      "color": "#8B5CF6"
+    },
+    {
+      "title": "BrickBench: Evaluating Agentic Brick Design",
+      "summary": "We propose BrickBench, a benchmark for agentic text-conditioned LEGO-set design. Given a prompt, an agent is tasked with producing an assembly that not only satisfies semantic and design criteria, but",
+      "url": "http://arxiv.org/abs/2610.12452v1",
+      "category": "AI论文",
+      "source": "arXiv",
+      "id": 8,
+      "date": "2026-10-11",
+      "color": "#8B5CF6"
+    }
+  ]
+}
