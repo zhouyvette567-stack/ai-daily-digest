@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-13",
+  "datetime": "2026-10-13 12:39:53",
+  "total": 3,
+  "items": [
+    {
+      "title": "NousResearch/hermes-agent",
+      "summary": "The agent that grows with you",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "category": "技术动态",
+      "source": "GitHub",
+      "stars": 253203,
+      "id": 1,
+      "date": "2026-10-13",
+      "color": "#4A90D9"
+    },
+    {
+      "title": "Ask HN: If you work at an enterprise, do you use Open Source LLM or GPT?",
+      "summary": "Hacker News 热点讨论，2 点赞",
+      "url": "https://news.ycombinator.com/item?id=38503835",
+      "category": "行业热点",
+      "source": "Hacker News",
+      "points": 2,
+      "id": 2,
+      "date": "2026-10-13",
+      "color": "#F59E0B"
+    },
+    {
+      "title": "Ask HN: Have LLM or generative AI made you more productive?",
+      "summary": "Hacker News 热点讨论，2 点赞",
+      "url": "https://news.ycombinator.com/item?id=41742430",
+      "category": "行业热点",
+      "source": "Hacker News",
+      "points": 2,
+      "id": 3,
+      "date": "2026-10-13",
+      "color": "#F59E0B"
+    }
+  ]
+}
