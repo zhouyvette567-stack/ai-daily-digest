@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-14",
+  "datetime": "2026-10-14 10:48:48",
+  "total": 7,
+  "items": [
+    {
+      "title": "Structural Chain-of-Thought: Reasoning with Executable Computational Graphs",
+      "summary": "Chain-of-thought prompting enables reasoning in large language models but produces explanations that are difficult to verify, expensive to generate, and not always faithful. We introduce a Structural ",
+      "url": "http://arxiv.org/abs/2610.15107v1",
+      "category": "AI论文",
+      "source": "arXiv",
+      "id": 1,
+      "date": "2026-10-14",
+      "color": "#8B5CF6"
+    },
+    {
+      "title": "RELAGRAM: Recursive Latent Graph Model for the Capacitated Vehicle Routing Problem",
+      "summary": "Latent recursion repeatedly processes internal representations through the same neural network. Recent work has shown this approach to be effective on structured reasoning tasks such as Sudoku and maz",
+      "url": "http://arxiv.org/abs/2610.15106v1",
+      "category": "AI论文",
+      "source": "arXiv",
+      "id": 2,
+      "date": "2026-10-14",
+      "color": "#8B5CF6"
+    },
+    {
+      "title": "RegExtract: A Benchmark for PFAS Regulatory Information Extraction with LLMs",
+      "summary": "Extracting structured information from regulatory documents is a critical but challenging task. Relevant facts are scattered across long, legally dense texts, and traceability of extracted facts to th",
+      "url": "http://arxiv.org/abs/2610.15103v1",
+      "category": "AI论文",
+      "source": "arXiv",
+      "id": 3,
+      "date": "2026-10-14",
+      "color": "#8B5CF6"
+    },
+    {
+      "title": "Show HN: EasyFunctionCall – Converts OpenAPI specs to AI model func call params",
+      "summary": "Hacker News 热点讨论，1 点赞",
+      "url": "https://easyfunctioncall.com",
+      "category": "行业热点",
+      "source": "Hacker News",
+      "points": 1,
+      "id": 4,
+      "date": "2026-10-14",
+      "color": "#F59E0B"
+    },
+    {
+      "title": "Show HN: Revibing nanochat's inference model in C++ with ggml",
+      "summary": "Hacker News 热点讨论，5 点赞",
+      "url": "https://github.com/k-ye/nanochagg.ml",
+      "category": "行业热点",
+      "source": "Hacker News",
+      "points": 5,
+      "id": 5,
+      "date": "2026-10-14",
+      "color": "#F59E0B"
+    },
+    {
+      "title": "Random Feature Pruning for Multi-Class Classification",
+      "summary": "Weighted sums of random kitchen sinks (W-RKS) is a commonly used feature extraction technique for supervised learning tasks. A major drawback of this method is the redundancy and ineffectiveness of ma",
+      "url": "http://arxiv.org/abs/2610.15101v1",
+      "category": "AI论文",
+      "source": "arXiv",
+      "id": 6,
+      "date": "2026-10-14",
+      "color": "#8B5CF6"
+    },
+    {
+      "title": "Anchors Enhance Controllability and Reasoning of Diffusion Language Models",
+      "summary": "Diffusion language models (DLMs) offer new opportunities for controllable text generation. However, their controllability, defined as the ability to satisfy task constraints while preserving their ori",
+      "url": "http://arxiv.org/abs/2610.15097v1",
+      "category": "AI论文",
+      "source": "arXiv",
+      "id": 7,
+      "date": "2026-10-14",
+      "color": "#8B5CF6"
+    }
+  ]
+}
