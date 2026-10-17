@@ -1,40 +1,112 @@
 {
-  "date": "2026-10-16",
-  "datetime": "2026-10-16 10:22:15",
-  "total": 3,
+  "date": "2026-10-17",
+  "datetime": "2026-10-17 10:14:44",
+  "total": 10,
   "items": [
     {
-      "title": "morluto/rea",
-      "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "url": "https://github.com/morluto/rea",
+      "title": "openclaw/openclaw",
+      "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "url": "https://github.com/openclaw/openclaw",
       "category": "技术动态",
       "source": "GitHub",
-      "stars": 272456,
+      "stars": 392204,
       "id": 1,
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "color": "#4A90D9"
     },
     {
-      "title": "Show HN: EasyFunctionCall – Converts OpenAPI specs to AI model func call params",
-      "summary": "Hacker News 热点讨论，1 点赞",
-      "url": "https://easyfunctioncall.com",
+      "title": "obra/superpowers",
+      "summary": "An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers",
+      "category": "技术动态",
+      "source": "GitHub",
+      "stars": 300705,
+      "id": 2,
+      "date": "2026-10-17",
+      "color": "#4A90D9"
+    },
+    {
+      "title": "LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation",
+      "summary": "Personalization is essential for general-purpose robots to transition into household environments and achieve true practicality. While general robotic manipulation has been extensively studied, person",
+      "url": "http://arxiv.org/abs/2610.22372v1",
+      "category": "AI论文",
+      "source": "arXiv",
+      "id": 3,
+      "date": "2026-10-17",
+      "color": "#8B5CF6"
+    },
+    {
+      "title": "Discovering state-of-the-art quantum circuits with large language models",
+      "summary": "Significant efforts are currently being directed toward the implementation of large-scale quantum information processors, but realizing useful quantum advantage also requires the development of effici",
+      "url": "http://arxiv.org/abs/2610.22367v1",
+      "category": "AI论文",
+      "source": "arXiv",
+      "id": 4,
+      "date": "2026-10-17",
+      "color": "#8B5CF6"
+    },
+    {
+      "title": "T2-z: Test-Time Optimization of Environment Latents for Robotic World Models",
+      "summary": "Predicting how the world responds to an action requires more than what can be seen: robots must account for environmental factors that are neither directly observable nor explicitly specified, from ph",
+      "url": "http://arxiv.org/abs/2610.22364v1",
+      "category": "AI论文",
+      "source": "arXiv",
+      "id": 5,
+      "date": "2026-10-17",
+      "color": "#8B5CF6"
+    },
+    {
+      "title": "Ask HN: If you work at an enterprise, do you use Open Source LLM or GPT?",
+      "summary": "Hacker News 热点讨论，2 点赞",
+      "url": "https://news.ycombinator.com/item?id=38503835",
       "category": "行业热点",
       "source": "Hacker News",
-      "points": 1,
-      "id": 2,
-      "date": "2026-10-16",
+      "points": 2,
+      "id": 6,
+      "date": "2026-10-17",
       "color": "#F59E0B"
     },
     {
-      "title": "Show HN: Revibing nanochat's inference model in C++ with ggml",
-      "summary": "Hacker News 热点讨论，5 点赞",
-      "url": "https://github.com/k-ye/nanochagg.ml",
+      "title": "Ask HN: Have LLM or generative AI made you more productive?",
+      "summary": "Hacker News 热点讨论，2 点赞",
+      "url": "https://news.ycombinator.com/item?id=41742430",
       "category": "行业热点",
       "source": "Hacker News",
-      "points": 5,
-      "id": 3,
-      "date": "2026-10-16",
+      "points": 2,
+      "id": 7,
+      "date": "2026-10-17",
       "color": "#F59E0B"
+    },
+    {
+      "title": "affaan-m/ECC",
+      "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
+      "url": "https://github.com/affaan-m/ECC",
+      "category": "技术动态",
+      "source": "GitHub",
+      "stars": 281565,
+      "id": 8,
+      "date": "2026-10-17",
+      "color": "#4A90D9"
+    },
+    {
+      "title": "CoDA: Co-Evolution of Data Engines and Action Policies",
+      "summary": "Generative simulation can automate robot environment construction, but physically valid environments are not necessarily useful for training. The challenge is to identify environments that address a p",
+      "url": "http://arxiv.org/abs/2610.22362v1",
+      "category": "AI论文",
+      "source": "arXiv",
+      "id": 9,
+      "date": "2026-10-17",
+      "color": "#8B5CF6"
+    },
+    {
+      "title": "PathFM: Fast Generative Forecasting of Multivariate Trajectories",
+      "summary": "Time series foundation models are becoming increasingly popular for general-purpose forecasting. However, most leading models predict marginal quantiles, leaving the dependence structure of future tra",
+      "url": "http://arxiv.org/abs/2610.22358v1",
+      "category": "AI论文",
+      "source": "arXiv",
+      "id": 10,
+      "date": "2026-10-17",
+      "color": "#8B5CF6"
     }
   ]
 }
