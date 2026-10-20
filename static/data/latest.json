@@ -1,112 +1,40 @@
 {
-  "date": "2026-10-19",
-  "datetime": "2026-10-19 10:30:20",
-  "total": 10,
+  "date": "2026-10-20",
+  "datetime": "2026-10-20 10:43:01",
+  "total": 3,
   "items": [
     {
-      "title": "openclaw/openclaw",
-      "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "url": "https://github.com/openclaw/openclaw",
+      "title": "morluto/rea",
+      "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "url": "https://github.com/morluto/rea",
       "category": "技术动态",
       "source": "GitHub",
-      "stars": 392405,
+      "stars": 337810,
       "id": 1,
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "color": "#4A90D9"
     },
     {
-      "title": "obra/superpowers",
-      "summary": "An agentic skills framework & software development methodology that works.",
-      "url": "https://github.com/obra/superpowers",
-      "category": "技术动态",
-      "source": "GitHub",
-      "stars": 301678,
+      "title": "Show HN: EasyFunctionCall – Converts OpenAPI specs to AI model func call params",
+      "summary": "Hacker News 热点讨论，1 点赞",
+      "url": "https://easyfunctioncall.com",
+      "category": "行业热点",
+      "source": "Hacker News",
+      "points": 1,
       "id": 2,
-      "date": "2026-10-19",
-      "color": "#4A90D9"
+      "date": "2026-10-20",
+      "color": "#F59E0B"
     },
     {
-      "title": "Language Models Learn to Improve Language Models",
-      "summary": "Large language models (LLMs) are increasingly used to automate AI research, including language-model (LM) development, offering a potential path toward recursive self-improvement. However, turning exp",
-      "url": "http://arxiv.org/abs/2610.23344v1",
-      "category": "AI论文",
-      "source": "arXiv",
+      "title": "Show HN: Revibing nanochat's inference model in C++ with ggml",
+      "summary": "Hacker News 热点讨论，5 点赞",
+      "url": "https://github.com/k-ye/nanochagg.ml",
+      "category": "行业热点",
+      "source": "Hacker News",
+      "points": 5,
       "id": 3,
-      "date": "2026-10-19",
-      "color": "#8B5CF6"
-    },
-    {
-      "title": "How Finite-Rank Bottlenecks Shape the Low-Rank Adaptation Landscape",
-      "summary": "Low-rank adaptation (LoRA) has become the standard method for parameter-efficient fine-tuning of large pretrained models, yet theoretical explanations for why low-rank updates suffice remain incomplet",
-      "url": "http://arxiv.org/abs/2610.23343v1",
-      "category": "AI论文",
-      "source": "arXiv",
-      "id": 4,
-      "date": "2026-10-19",
-      "color": "#8B5CF6"
-    },
-    {
-      "title": "Robust Function Calling for LLM Agents Under Interface Drift",
-      "summary": "Tool-augmented language-model agents rely on interface text: tool descriptions, argument schemas, and the candidate tool list shown at inference time. These interfaces often change after deployment ev",
-      "url": "http://arxiv.org/abs/2610.23342v1",
-      "category": "AI论文",
-      "source": "arXiv",
-      "id": 5,
-      "date": "2026-10-19",
-      "color": "#8B5CF6"
-    },
-    {
-      "title": "Ask HN: If you work at an enterprise, do you use Open Source LLM or GPT?",
-      "summary": "Hacker News 热点讨论，2 点赞",
-      "url": "https://news.ycombinator.com/item?id=38503835",
-      "category": "行业热点",
-      "source": "Hacker News",
-      "points": 2,
-      "id": 6,
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "color": "#F59E0B"
-    },
-    {
-      "title": "Ask HN: Have LLM or generative AI made you more productive?",
-      "summary": "Hacker News 热点讨论，2 点赞",
-      "url": "https://news.ycombinator.com/item?id=41742430",
-      "category": "行业热点",
-      "source": "Hacker News",
-      "points": 2,
-      "id": 7,
-      "date": "2026-10-19",
-      "color": "#F59E0B"
-    },
-    {
-      "title": "affaan-m/ECC",
-      "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "url": "https://github.com/affaan-m/ECC",
-      "category": "技术动态",
-      "source": "GitHub",
-      "stars": 283338,
-      "id": 8,
-      "date": "2026-10-19",
-      "color": "#4A90D9"
-    },
-    {
-      "title": "SETAREH Transform: A Sorting-Assisted Haar-Wavelet Sparsification Method for Approximate Inner-Product Computation",
-      "summary": "Modern deep learning systems increasingly rely on high-dimensional vector operations, in which large input and parameter vectors are repeatedly stored, transferred, and processed. Although substantial",
-      "url": "http://arxiv.org/abs/2610.23338v1",
-      "category": "AI论文",
-      "source": "arXiv",
-      "id": 9,
-      "date": "2026-10-19",
-      "color": "#8B5CF6"
-    },
-    {
-      "title": "Minimax-optimal Scaling Laws in Ridge Regression via Transfer Learning",
-      "summary": "Pretrained models are often reused across downstream tasks, motivating the question of whether this transfer learning procedure can provide a substantial performance improvement, namely, in terms of t",
-      "url": "http://arxiv.org/abs/2610.23337v1",
-      "category": "AI论文",
-      "source": "arXiv",
-      "id": 10,
-      "date": "2026-10-19",
-      "color": "#8B5CF6"
     }
   ]
 }
