@@ -1,90 +1,62 @@
 {
-  "date": "2026-10-24",
-  "datetime": "2026-10-24 10:36:42",
-  "total": 8,
+  "date": "2026-10-25",
+  "datetime": "2026-10-25 10:25:21",
+  "total": 5,
   "items": [
     {
-      "title": "morluto/rea",
-      "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "url": "https://github.com/morluto/rea",
+      "title": "openclaw/openclaw",
+      "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "url": "https://github.com/openclaw/openclaw",
       "category": "技术动态",
       "source": "GitHub",
-      "stars": 373552,
+      "stars": 392967,
       "id": 1,
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "color": "#4A90D9"
     },
     {
-      "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
-      "summary": "Robotic foundation models are typically evaluated through costly closed-loop rollouts, which motivates cheap offline proxies for model capability. The Platonic Representation Hypothesis (PRH) suggests",
-      "url": "http://arxiv.org/abs/2610.31670v1",
-      "category": "AI论文",
-      "source": "arXiv",
+      "title": "obra/superpowers",
+      "summary": "An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers",
+      "category": "技术动态",
+      "source": "GitHub",
+      "stars": 304662,
       "id": 2,
-      "date": "2026-10-24",
-      "color": "#8B5CF6"
+      "date": "2026-10-25",
+      "color": "#4A90D9"
     },
     {
-      "title": "Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning",
-      "summary": "Test-time scaling has emerged as a key inference strategy for reasoning models, where a model generates a large number of candidate solutions in the hope of finding at least one correct solution. Runn",
-      "url": "http://arxiv.org/abs/2610.31667v1",
-      "category": "AI论文",
-      "source": "arXiv",
+      "title": "Ask HN: If you work at an enterprise, do you use Open Source LLM or GPT?",
+      "summary": "Hacker News 热点讨论，2 点赞",
+      "url": "https://news.ycombinator.com/item?id=38503835",
+      "category": "行业热点",
+      "source": "Hacker News",
+      "points": 2,
       "id": 3,
-      "date": "2026-10-24",
-      "color": "#8B5CF6"
+      "date": "2026-10-25",
+      "color": "#F59E0B"
     },
     {
-      "title": "Phase Transition from Random Features to Fully Trainable Networks",
-      "summary": "Constructing accurate and computationally tractable approximation spaces is a fundamental task in scientific computing. Partially trainable neural networks bridge fixed random features and fully adapt",
-      "url": "http://arxiv.org/abs/2610.31663v1",
-      "category": "AI论文",
-      "source": "arXiv",
+      "title": "Ask HN: Have LLM or generative AI made you more productive?",
+      "summary": "Hacker News 热点讨论，2 点赞",
+      "url": "https://news.ycombinator.com/item?id=41742430",
+      "category": "行业热点",
+      "source": "Hacker News",
+      "points": 2,
       "id": 4,
-      "date": "2026-10-24",
-      "color": "#8B5CF6"
+      "date": "2026-10-25",
+      "color": "#F59E0B"
     },
     {
-      "title": "Show HN: EasyFunctionCall – Converts OpenAPI specs to AI model func call params",
-      "summary": "Hacker News 热点讨论，1 点赞",
-      "url": "https://easyfunctioncall.com",
-      "category": "行业热点",
-      "source": "Hacker News",
-      "points": 1,
+      "title": "affaan-m/ECC",
+      "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
+      "url": "https://github.com/affaan-m/ECC",
+      "category": "技术动态",
+      "source": "GitHub",
+      "stars": 288135,
       "id": 5,
-      "date": "2026-10-24",
-      "color": "#F59E0B"
-    },
-    {
-      "title": "Show HN: Revibing nanochat's inference model in C++ with ggml",
-      "summary": "Hacker News 热点讨论，5 点赞",
-      "url": "https://github.com/k-ye/nanochagg.ml",
-      "category": "行业热点",
-      "source": "Hacker News",
-      "points": 5,
-      "id": 6,
-      "date": "2026-10-24",
-      "color": "#F59E0B"
-    },
-    {
-      "title": "Reliable AI-Assisted Decisions via Selective Auditing",
-      "summary": "We consider online monitoring of an AI system that produces a sequence of decisions. At each round, the system outputs a proposed decision together with a confidence score estimating the trustworthine",
-      "url": "http://arxiv.org/abs/2610.31662v1",
-      "category": "AI论文",
-      "source": "arXiv",
-      "id": 7,
-      "date": "2026-10-24",
-      "color": "#8B5CF6"
-    },
-    {
-      "title": "SpectralCanary: Embarrassingly Simple Low-Frequency Traces for T2I Dataset-Use Auditing",
-      "summary": "Auditing whether a text-to-image (T2I) model was fine-tuned on a particular image collection is difficult: a model can absorb collection-level visual characteristics without reproducing training image",
-      "url": "http://arxiv.org/abs/2610.31659v1",
-      "category": "AI论文",
-      "source": "arXiv",
-      "id": 8,
-      "date": "2026-10-24",
-      "color": "#8B5CF6"
+      "date": "2026-10-25",
+      "color": "#4A90D9"
     }
   ]
 }

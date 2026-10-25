@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-25",
+  "datetime": "2026-10-25 10:25:21",
+  "total": 5,
+  "items": [
+    {
+      "title": "openclaw/openclaw",
+      "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "url": "https://github.com/openclaw/openclaw",
+      "category": "技术动态",
+      "source": "GitHub",
+      "stars": 392967,
+      "id": 1,
+      "date": "2026-10-25",
+      "color": "#4A90D9"
+    },
+    {
+      "title": "obra/superpowers",
+      "summary": "An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers",
+      "category": "技术动态",
+      "source": "GitHub",
+      "stars": 304662,
+      "id": 2,
+      "date": "2026-10-25",
+      "color": "#4A90D9"
+    },
+    {
+      "title": "Ask HN: If you work at an enterprise, do you use Open Source LLM or GPT?",
+      "summary": "Hacker News 热点讨论，2 点赞",
+      "url": "https://news.ycombinator.com/item?id=38503835",
+      "category": "行业热点",
+      "source": "Hacker News",
+      "points": 2,
+      "id": 3,
+      "date": "2026-10-25",
+      "color": "#F59E0B"
+    },
+    {
+      "title": "Ask HN: Have LLM or generative AI made you more productive?",
+      "summary": "Hacker News 热点讨论，2 点赞",
+      "url": "https://news.ycombinator.com/item?id=41742430",
+      "category": "行业热点",
+      "source": "Hacker News",
+      "points": 2,
+      "id": 4,
+      "date": "2026-10-25",
+      "color": "#F59E0B"
+    },
+    {
+      "title": "affaan-m/ECC",
+      "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
+      "url": "https://github.com/affaan-m/ECC",
+      "category": "技术动态",
+      "source": "GitHub",
+      "stars": 288135,
+      "id": 5,
+      "date": "2026-10-25",
+      "color": "#4A90D9"
+    }
+  ]
+}
