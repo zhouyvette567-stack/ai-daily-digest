@@ -1,0 +1,112 @@
+{
+  "date": "2026-10-27",
+  "datetime": "2026-10-27 11:00:08",
+  "total": 10,
+  "items": [
+    {
+      "title": "obra/superpowers",
+      "summary": "An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers",
+      "category": "技术动态",
+      "source": "GitHub",
+      "stars": 305665,
+      "id": 1,
+      "date": "2026-10-27",
+      "color": "#4A90D9"
+    },
+    {
+      "title": "affaan-m/ECC",
+      "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
+      "url": "https://github.com/affaan-m/ECC",
+      "category": "技术动态",
+      "source": "GitHub",
+      "stars": 289934,
+      "id": 2,
+      "date": "2026-10-27",
+      "color": "#4A90D9"
+    },
+    {
+      "title": "Generative AI in Turbulence: Foundations, Applications, Validations and Benchmarks",
+      "summary": "Generative AI offers new approaches to turbulence problems in which incomplete observations or unresolved d.o.f. admit multiple physically plausible solutions. Potential applications include stochasti",
+      "url": "http://arxiv.org/abs/2610.35123v1",
+      "category": "AI论文",
+      "source": "arXiv",
+      "id": 3,
+      "date": "2026-10-27",
+      "color": "#8B5CF6"
+    },
+    {
+      "title": "Quality over Quantity: Rethinking Data and Model Assumptions for Bengali Coreference Resolution",
+      "summary": "Multilingual transformer models are often assumed to generalise across languages, but their effectiveness for coreference resolution in low-resource settings remains unverified. We investigate this ga",
+      "url": "http://arxiv.org/abs/2610.35114v1",
+      "category": "AI论文",
+      "source": "arXiv",
+      "id": 4,
+      "date": "2026-10-27",
+      "color": "#8B5CF6"
+    },
+    {
+      "title": "UTA: Universal Training Adaptive Learning Rate Decay",
+      "summary": "Learning rate decay (LRD) is critical for training high-performance models, yet most designs remain empirically driven. Although the Universal Budget Aware (UBA) LRD offers a theoretical framework, it",
+      "url": "http://arxiv.org/abs/2610.35113v1",
+      "category": "AI论文",
+      "source": "arXiv",
+      "id": 5,
+      "date": "2026-10-27",
+      "color": "#8B5CF6"
+    },
+    {
+      "title": "Ask HN: If you work at an enterprise, do you use Open Source LLM or GPT?",
+      "summary": "Hacker News 热点讨论，2 点赞",
+      "url": "https://news.ycombinator.com/item?id=38503835",
+      "category": "行业热点",
+      "source": "Hacker News",
+      "points": 2,
+      "id": 6,
+      "date": "2026-10-27",
+      "color": "#F59E0B"
+    },
+    {
+      "title": "Ask HN: Have LLM or generative AI made you more productive?",
+      "summary": "Hacker News 热点讨论，2 点赞",
+      "url": "https://news.ycombinator.com/item?id=41742430",
+      "category": "行业热点",
+      "source": "Hacker News",
+      "points": 2,
+      "id": 7,
+      "date": "2026-10-27",
+      "color": "#F59E0B"
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "category": "技术动态",
+      "source": "GitHub",
+      "stars": 177262,
+      "id": 8,
+      "date": "2026-10-27",
+      "color": "#4A90D9"
+    },
+    {
+      "title": "Subspace Crystallization in Grokking: Rank Compression Tracks the Phase Transition",
+      "summary": "Grokking describes understanding something deeply and intuitively. In neural networks, it is the phenomenon where a network generalizes long after memorizing its training data. This delay has been lin",
+      "url": "http://arxiv.org/abs/2610.35112v1",
+      "category": "AI论文",
+      "source": "arXiv",
+      "id": 9,
+      "date": "2026-10-27",
+      "color": "#8B5CF6"
+    },
+    {
+      "title": "Rethinking Evaluation for Principled Generalization Using a Kripkean Challenge to Meaning as Use",
+      "summary": "Large language models operationalize an intuitive, view of meaning as use. We argue that it faces a rule-following challenge. Using Kripke's interpretation of Wittgenstein, we argue that finite histor",
+      "url": "http://arxiv.org/abs/2610.35111v1",
+      "category": "AI论文",
+      "source": "arXiv",
+      "id": 10,
+      "date": "2026-10-27",
+      "color": "#8B5CF6"
+    }
+  ]
+}
