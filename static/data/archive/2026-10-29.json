@@ -1,0 +1,113 @@
+{
+  "date": "2026-10-29",
+  "datetime": "2026-10-29 11:36:35",
+  "total": 10,
+  "items": [
+    {
+      "title": "nexu-io/open-design",
+      "summary": "The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps,",
+      "url": "https://github.com/nexu-io/open-design",
+      "category": "技术动态",
+      "source": "GitHub",
+      "stars": 104668,
+      "id": 1,
+      "date": "2026-10-29",
+      "color": "#4A90D9"
+    },
+    {
+      "title": "thedotmack/claude-mem",
+      "summary": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "category": "技术动态",
+      "source": "GitHub",
+      "stars": 104066,
+      "id": 2,
+      "date": "2026-10-29",
+      "color": "#4A90D9"
+    },
+    {
+      "title": "Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction",
+      "summary": "Novel view synthesis and 3D reconstruction have advanced rapidly with radiance fields and splatting, yet their memory and computational demands limit their use in resource-constrained settings. We int",
+      "url": "http://arxiv.org/abs/2610.37668v1",
+      "category": "AI论文",
+      "source": "arXiv",
+      "id": 3,
+      "date": "2026-10-29",
+      "color": "#8B5CF6"
+    },
+    {
+      "title": "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning",
+      "summary": "Vision-Language-Action (VLA) models have made substantial progress in robotic manipulation, but their generalization remains constrained by the diversity and coverage of action-labeled robot demonstra",
+      "url": "http://arxiv.org/abs/2610.37666v1",
+      "category": "AI论文",
+      "source": "arXiv",
+      "id": 4,
+      "date": "2026-10-29",
+      "color": "#8B5CF6"
+    },
+    {
+      "title": "When Should We Intervene at Test Time?",
+      "summary": "Test-time adaptation helps a deployed model respond to changing inputs, but the same intervention can rescue one batch and damage the next. Updating normalization statistics, for example, can improve ",
+      "url": "http://arxiv.org/abs/2610.37658v1",
+      "category": "AI论文",
+      "source": "arXiv",
+      "id": 5,
+      "date": "2026-10-29",
+      "color": "#8B5CF6"
+    },
+    {
+      "title": "Ask HN: If you work at an enterprise, do you use Open Source LLM or GPT?",
+      "summary": "Hacker News 热点讨论，2 点赞",
+      "url": "https://news.ycombinator.com/item?id=38503835",
+      "category": "行业热点",
+      "source": "Hacker News",
+      "points": 2,
+      "id": 6,
+      "date": "2026-10-29",
+      "color": "#F59E0B"
+    },
+    {
+      "title": "Ask HN: Have LLM or generative AI made you more productive?",
+      "summary": "Hacker News 热点讨论，2 点赞",
+      "url": "https://news.ycombinator.com/item?id=41742430",
+      "category": "行业热点",
+      "source": "Hacker News",
+      "points": 2,
+      "id": 7,
+      "date": "2026-10-29",
+      "color": "#F59E0B"
+    },
+    {
+      "title": "debpalash/VoiceStudio",
+      "summary": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictati",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "category": "技术动态",
+      "source": "GitHub",
+      "stars": 93169,
+      "id": 8,
+      "date": "2026-10-29",
+      "color": "#4A90D9"
+    },
+    {
+      "title": "usestrix/strix",
+      "summary": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "url": "https://github.com/usestrix/strix",
+      "category": "技术动态",
+      "source": "GitHub",
+      "stars": 72596,
+      "id": 9,
+      "date": "2026-10-29",
+      "color": "#4A90D9"
+    },
+    {
+      "title": "Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness",
+      "summary": "We introduce Heads of Security (HoS), a prompt injection defense that enforces instruction-data separation via a small set of learned per-head attention gates. HoS learns how each head should redistri",
+      "url": "http://arxiv.org/abs/2610.37657v1",
+      "category": "AI论文",
+      "source": "arXiv",
+      "id": 10,
+      "date": "2026-10-29",
+      "color": "#8B5CF6"
+    }
+  ]
+}
