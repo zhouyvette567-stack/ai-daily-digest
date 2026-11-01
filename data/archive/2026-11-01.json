@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-01",
+  "datetime": "2026-11-01 11:24:10",
+  "total": 2,
+  "items": [
+    {
+      "title": "Show HN: EasyFunctionCall – Converts OpenAPI specs to AI model func call params",
+      "summary": "Hacker News 热点讨论，1 点赞",
+      "url": "https://easyfunctioncall.com",
+      "category": "行业热点",
+      "source": "Hacker News",
+      "points": 1,
+      "id": 1,
+      "date": "2026-11-01",
+      "color": "#F59E0B"
+    },
+    {
+      "title": "Show HN: Revibing nanochat's inference model in C++ with ggml",
+      "summary": "Hacker News 热点讨论，5 点赞",
+      "url": "https://github.com/k-ye/nanochagg.ml",
+      "category": "行业热点",
+      "source": "Hacker News",
+      "points": 5,
+      "id": 2,
+      "date": "2026-11-01",
+      "color": "#F59E0B"
+    }
+  ]
+}
