@@ -1,79 +1,73 @@
 {
-  "date": "2026-11-03",
-  "datetime": "2026-11-03 12:40:31",
-  "total": 7,
+  "date": "2026-11-04",
+  "datetime": "2026-11-04 12:00:25",
+  "total": 6,
   "items": [
     {
-      "title": "Accelerating posterior sampling in Bayesian inverse problems with diffusion models: an online-offline perspective",
-      "summary": "Bayesian inverse problems require both informative prior models and computationally feasible posterior inference. Score-based diffusion models provide expressive learned priors, but their use for inve",
-      "url": "http://arxiv.org/abs/2611.01300v1",
-      "category": "AI论文",
-      "source": "arXiv",
+      "title": "morluto/rea",
+      "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "url": "https://github.com/morluto/rea",
+      "category": "技术动态",
+      "source": "GitHub",
+      "stars": 427633,
       "id": 1,
-      "date": "2026-11-03",
-      "color": "#8B5CF6"
+      "date": "2026-11-04",
+      "color": "#4A90D9"
     },
     {
-      "title": "Best-of-Both-Worlds FTRL for Linear Bandits: The Interplay of Information Acquisition, Corruption, and Geometry",
-      "summary": "We study \\textit{best-of-both-worlds} (BOBW) algorithms for linear bandits, which aim to simultaneously guarantee $\\gO(\\sqrt T)$ regret in the adversarial regime and $\\gO(\\log T)$ regret in the stocha",
-      "url": "http://arxiv.org/abs/2611.01299v1",
-      "category": "AI论文",
-      "source": "arXiv",
+      "title": "openclaw/openclaw",
+      "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "url": "https://github.com/openclaw/openclaw",
+      "category": "技术动态",
+      "source": "GitHub",
+      "stars": 393868,
       "id": 2,
-      "date": "2026-11-03",
-      "color": "#8B5CF6"
+      "date": "2026-11-04",
+      "color": "#4A90D9"
     },
     {
-      "title": "[Re] Pure Noise to the Rescue of Insufficient Data",
-      "summary": "We examine the main claims of Zada, Benou, and Irani (2021), which states that in an image classification task with imbalanced training data, (i) using pure noise to augment minority-class images enco",
-      "url": "http://arxiv.org/abs/2611.01295v1",
-      "category": "AI论文",
-      "source": "arXiv",
+      "title": "Ask HN: If you work at an enterprise, do you use Open Source LLM or GPT?",
+      "summary": "Hacker News 热点讨论，2 点赞",
+      "url": "https://news.ycombinator.com/item?id=38503835",
+      "category": "行业热点",
+      "source": "Hacker News",
+      "points": 2,
       "id": 3,
-      "date": "2026-11-03",
-      "color": "#8B5CF6"
+      "date": "2026-11-04",
+      "color": "#F59E0B"
     },
     {
-      "title": "Show HN: EasyFunctionCall – Converts OpenAPI specs to AI model func call params",
-      "summary": "Hacker News 热点讨论，1 点赞",
-      "url": "https://easyfunctioncall.com",
+      "title": "Ask HN: Have LLM or generative AI made you more productive?",
+      "summary": "Hacker News 热点讨论，2 点赞",
+      "url": "https://news.ycombinator.com/item?id=41742430",
       "category": "行业热点",
       "source": "Hacker News",
-      "points": 1,
+      "points": 2,
       "id": 4,
-      "date": "2026-11-03",
+      "date": "2026-11-04",
       "color": "#F59E0B"
     },
     {
-      "title": "Show HN: Revibing nanochat's inference model in C++ with ggml",
-      "summary": "Hacker News 热点讨论，5 点赞",
-      "url": "https://github.com/k-ye/nanochagg.ml",
-      "category": "行业热点",
-      "source": "Hacker News",
-      "points": 5,
+      "title": "obra/superpowers",
+      "summary": "An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers",
+      "category": "技术动态",
+      "source": "GitHub",
+      "stars": 311950,
       "id": 5,
-      "date": "2026-11-03",
-      "color": "#F59E0B"
+      "date": "2026-11-04",
+      "color": "#4A90D9"
     },
     {
-      "title": "Character-Name Concentration in LLM Fiction: Measuring Displacement and Mitigating Repetition",
-      "summary": "Character names in large language model (LLM) fiction concentrate on a handful of recurrent names such as 'Elara' and 'Elias', a measurable face of AI slop. Existing fixes either require logit access ",
-      "url": "http://arxiv.org/abs/2611.01284v1",
-      "category": "AI论文",
-      "source": "arXiv",
+      "title": "affaan-m/ECC",
+      "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
+      "url": "https://github.com/affaan-m/ECC",
+      "category": "技术动态",
+      "source": "GitHub",
+      "stars": 296627,
       "id": 6,
-      "date": "2026-11-03",
-      "color": "#8B5CF6"
-    },
-    {
-      "title": "OntoDoc: Automatically Generating Ontology Resource Descriptions",
-      "summary": "Knowledge graphs and ontologies form the backbone of structured, machine-readable knowledge representation, yet ontology terms often lack natural language descriptions, limiting their accessibility an",
-      "url": "http://arxiv.org/abs/2611.01276v1",
-      "category": "AI论文",
-      "source": "arXiv",
-      "id": 7,
-      "date": "2026-11-03",
-      "color": "#8B5CF6"
+      "date": "2026-11-04",
+      "color": "#4A90D9"
     }
   ]
 }
