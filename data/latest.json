@@ -1,73 +1,79 @@
 {
-  "date": "2026-11-04",
-  "datetime": "2026-11-04 12:00:25",
-  "total": 6,
+  "date": "2026-11-05",
+  "datetime": "2026-11-05 12:22:07",
+  "total": 7,
   "items": [
     {
-      "title": "morluto/rea",
-      "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "url": "https://github.com/morluto/rea",
-      "category": "技术动态",
-      "source": "GitHub",
-      "stars": 427633,
+      "title": "FPTR: Feasibility-Preserving Transactional Refinement for Deadline-Constrained Joint Beam and Resource Allocation",
+      "summary": "Short-interval wireless schedulers must return a complete, feasible beam-and-resource allocation before each execution deadline, and a late or invalid output gives no utility in the current control cy",
+      "url": "http://arxiv.org/abs/2611.06491v1",
+      "category": "AI论文",
+      "source": "arXiv",
       "id": 1,
-      "date": "2026-11-04",
-      "color": "#4A90D9"
+      "date": "2026-11-05",
+      "color": "#8B5CF6"
     },
     {
-      "title": "openclaw/openclaw",
-      "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "url": "https://github.com/openclaw/openclaw",
-      "category": "技术动态",
-      "source": "GitHub",
-      "stars": 393868,
+      "title": "Risk-Sensitive Non-Parametric and Kernel Bandits",
+      "summary": "We study non-parametric bandits in which arms are evaluated using Cumulative Prospect Theory (CPT) rather than expected reward. We consider continuous action spaces with arm-dependent noise and propos",
+      "url": "http://arxiv.org/abs/2611.06489v1",
+      "category": "AI论文",
+      "source": "arXiv",
       "id": 2,
-      "date": "2026-11-04",
-      "color": "#4A90D9"
+      "date": "2026-11-05",
+      "color": "#8B5CF6"
     },
     {
-      "title": "Ask HN: If you work at an enterprise, do you use Open Source LLM or GPT?",
-      "summary": "Hacker News 热点讨论，2 点赞",
-      "url": "https://news.ycombinator.com/item?id=38503835",
-      "category": "行业热点",
-      "source": "Hacker News",
-      "points": 2,
+      "title": "Model Merging Does Not Require Uniform LoRA Ranks",
+      "summary": "Model merging combines separately fine-tuned experts into a single model without retraining. Standard practice trains every expert at the same LoRA rank, which couples the rank choice across experts e",
+      "url": "http://arxiv.org/abs/2611.06486v1",
+      "category": "AI论文",
+      "source": "arXiv",
       "id": 3,
-      "date": "2026-11-04",
-      "color": "#F59E0B"
+      "date": "2026-11-05",
+      "color": "#8B5CF6"
     },
     {
-      "title": "Ask HN: Have LLM or generative AI made you more productive?",
-      "summary": "Hacker News 热点讨论，2 点赞",
-      "url": "https://news.ycombinator.com/item?id=41742430",
+      "title": "Show HN: EasyFunctionCall – Converts OpenAPI specs to AI model func call params",
+      "summary": "Hacker News 热点讨论，1 点赞",
+      "url": "https://easyfunctioncall.com",
       "category": "行业热点",
       "source": "Hacker News",
-      "points": 2,
+      "points": 1,
       "id": 4,
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "color": "#F59E0B"
     },
     {
-      "title": "obra/superpowers",
-      "summary": "An agentic skills framework & software development methodology that works.",
-      "url": "https://github.com/obra/superpowers",
-      "category": "技术动态",
-      "source": "GitHub",
-      "stars": 311950,
+      "title": "Show HN: Revibing nanochat's inference model in C++ with ggml",
+      "summary": "Hacker News 热点讨论，5 点赞",
+      "url": "https://github.com/k-ye/nanochagg.ml",
+      "category": "行业热点",
+      "source": "Hacker News",
+      "points": 5,
       "id": 5,
-      "date": "2026-11-04",
-      "color": "#4A90D9"
+      "date": "2026-11-05",
+      "color": "#F59E0B"
     },
     {
-      "title": "affaan-m/ECC",
-      "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "url": "https://github.com/affaan-m/ECC",
-      "category": "技术动态",
-      "source": "GitHub",
-      "stars": 296627,
+      "title": "What Does Multi-Turn Reinforcement Learning Really Improve in LLM Agents?",
+      "summary": "While multi-turn agentic reinforcement learning (RL) excels on long-horizon tasks, its performance gains remain highly sensitive to interaction constraints. Evaluating across sampling breadth $K$ and ",
+      "url": "http://arxiv.org/abs/2611.06483v1",
+      "category": "AI论文",
+      "source": "arXiv",
       "id": 6,
-      "date": "2026-11-04",
-      "color": "#4A90D9"
+      "date": "2026-11-05",
+      "color": "#8B5CF6"
+    },
+    {
+      "title": "ArcRAG: Agentic Compositional Retrieval over Knowledge Graphs",
+      "summary": "Graph-based retrieval-augmented generation (GraphRAG) answers questions by retrieving over a knowledge graph built from a corpus. Yet retrieval strategies are designed around the structure their own c",
+      "url": "http://arxiv.org/abs/2611.06481v1",
+      "category": "AI论文",
+      "source": "arXiv",
+      "id": 7,
+      "date": "2026-11-05",
+      "color": "#8B5CF6"
     }
   ]
 }
