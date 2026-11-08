@@ -1,0 +1,73 @@
+{
+  "date": "2026-11-08",
+  "datetime": "2026-11-08 11:30:43",
+  "total": 6,
+  "items": [
+    {
+      "title": "morluto/rea",
+      "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "url": "https://github.com/morluto/rea",
+      "category": "技术动态",
+      "source": "GitHub",
+      "stars": 441320,
+      "id": 1,
+      "date": "2026-11-08",
+      "color": "#4A90D9"
+    },
+    {
+      "title": "openclaw/openclaw",
+      "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "url": "https://github.com/openclaw/openclaw",
+      "category": "技术动态",
+      "source": "GitHub",
+      "stars": 394153,
+      "id": 2,
+      "date": "2026-11-08",
+      "color": "#4A90D9"
+    },
+    {
+      "title": "Ask HN: If you work at an enterprise, do you use Open Source LLM or GPT?",
+      "summary": "Hacker News 热点讨论，2 点赞",
+      "url": "https://news.ycombinator.com/item?id=38503835",
+      "category": "行业热点",
+      "source": "Hacker News",
+      "points": 2,
+      "id": 3,
+      "date": "2026-11-08",
+      "color": "#F59E0B"
+    },
+    {
+      "title": "Ask HN: Have LLM or generative AI made you more productive?",
+      "summary": "Hacker News 热点讨论，2 点赞",
+      "url": "https://news.ycombinator.com/item?id=41742430",
+      "category": "行业热点",
+      "source": "Hacker News",
+      "points": 2,
+      "id": 4,
+      "date": "2026-11-08",
+      "color": "#F59E0B"
+    },
+    {
+      "title": "NousResearch/hermes-agent",
+      "summary": "The agent that grows with you",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "category": "技术动态",
+      "source": "GitHub",
+      "stars": 261544,
+      "id": 5,
+      "date": "2026-11-08",
+      "color": "#4A90D9"
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "summary": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfa",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "category": "技术动态",
+      "source": "GitHub",
+      "stars": 230642,
+      "id": 6,
+      "date": "2026-11-08",
+      "color": "#4A90D9"
+    }
+  ]
+}
