@@ -1,40 +1,113 @@
 {
-  "date": "2026-11-09",
-  "datetime": "2026-11-09 11:46:18",
-  "total": 3,
+  "date": "2026-11-10",
+  "datetime": "2026-11-10 13:20:25",
+  "total": 10,
   "items": [
     {
-      "title": "affaan-m/ECC",
-      "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "url": "https://github.com/affaan-m/ECC",
+      "title": "morluto/rea",
+      "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "url": "https://github.com/morluto/rea",
       "category": "技术动态",
       "source": "GitHub",
-      "stars": 299759,
+      "stars": 447559,
       "id": 1,
-      "date": "2026-11-09",
+      "date": "2026-11-10",
       "color": "#4A90D9"
     },
     {
-      "title": "Show HN: EasyFunctionCall – Converts OpenAPI specs to AI model func call params",
-      "summary": "Hacker News 热点讨论，1 点赞",
-      "url": "https://easyfunctioncall.com",
+      "title": "openclaw/openclaw",
+      "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "url": "https://github.com/openclaw/openclaw",
+      "category": "技术动态",
+      "source": "GitHub",
+      "stars": 394265,
+      "id": 2,
+      "date": "2026-11-10",
+      "color": "#4A90D9"
+    },
+    {
+      "title": "TID System for Speech-COSER Challenge 2026: ASR Track",
+      "summary": "We describe the system submitted by Telefónica Innovación Digital to the Speech-COSER Challenge 2026, which features spontaneous speech from elderly speakers recorded in rural Spain. For ASR, we perfo",
+      "url": "http://arxiv.org/abs/2611.11497v1",
+      "category": "AI论文",
+      "source": "arXiv",
+      "id": 3,
+      "date": "2026-11-10",
+      "color": "#8B5CF6"
+    },
+    {
+      "title": "Regret without Optimal-Arm Feedback under Reward-Dependent Delays",
+      "summary": "We study stochastic bandits with reward-dependent delays, possibly infinite, whose reports omit the originating round. For each $c\\in[0,1)$, Balanced Historical Optimism (BHO) has a delay term control",
+      "url": "http://arxiv.org/abs/2611.11494v1",
+      "category": "AI论文",
+      "source": "arXiv",
+      "id": 4,
+      "date": "2026-11-10",
+      "color": "#8B5CF6"
+    },
+    {
+      "title": "Learning through Capacity Awareness to Minimize Hospital Readmissions",
+      "summary": "Predictive algorithms are increasingly used to guide hospital discharge decisions, yet these models can exhibit censoring bias for vulnerable patients due to insufficient historical data or past disch",
+      "url": "http://arxiv.org/abs/2611.11493v1",
+      "category": "AI论文",
+      "source": "arXiv",
+      "id": 5,
+      "date": "2026-11-10",
+      "color": "#8B5CF6"
+    },
+    {
+      "title": "Ask HN: If you work at an enterprise, do you use Open Source LLM or GPT?",
+      "summary": "Hacker News 热点讨论，2 点赞",
+      "url": "https://news.ycombinator.com/item?id=38503835",
       "category": "行业热点",
       "source": "Hacker News",
-      "points": 1,
-      "id": 2,
-      "date": "2026-11-09",
+      "points": 2,
+      "id": 6,
+      "date": "2026-11-10",
       "color": "#F59E0B"
     },
     {
-      "title": "Show HN: Revibing nanochat's inference model in C++ with ggml",
-      "summary": "Hacker News 热点讨论，5 点赞",
-      "url": "https://github.com/k-ye/nanochagg.ml",
+      "title": "Ask HN: Have LLM or generative AI made you more productive?",
+      "summary": "Hacker News 热点讨论，2 点赞",
+      "url": "https://news.ycombinator.com/item?id=41742430",
       "category": "行业热点",
       "source": "Hacker News",
-      "points": 5,
-      "id": 3,
-      "date": "2026-11-09",
+      "points": 2,
+      "id": 7,
+      "date": "2026-11-10",
       "color": "#F59E0B"
+    },
+    {
+      "title": "obra/superpowers",
+      "summary": "An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers",
+      "category": "技术动态",
+      "source": "GitHub",
+      "stars": 315256,
+      "id": 8,
+      "date": "2026-11-10",
+      "color": "#4A90D9"
+    },
+    {
+      "title": "NousResearch/hermes-agent",
+      "summary": "The agent that grows with you",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "category": "技术动态",
+      "source": "GitHub",
+      "stars": 262141,
+      "id": 9,
+      "date": "2026-11-10",
+      "color": "#4A90D9"
+    },
+    {
+      "title": "CallCleaner: Lightweight Bioacoustic Denoising from an Audio Foundation Model",
+      "summary": "Many studies of animal vocalizations require clean recordings, but animals are usually recorded in the field, with background noise from weather, vehicles, and other animals. Animal vocalization denoi",
+      "url": "http://arxiv.org/abs/2611.11491v1",
+      "category": "AI论文",
+      "source": "arXiv",
+      "id": 10,
+      "date": "2026-11-10",
+      "color": "#8B5CF6"
     }
   ]
 }
