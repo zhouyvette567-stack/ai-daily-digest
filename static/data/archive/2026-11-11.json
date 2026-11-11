@@ -1,0 +1,90 @@
+{
+  "date": "2026-11-11",
+  "datetime": "2026-11-11 11:51:53",
+  "total": 8,
+  "items": [
+    {
+      "title": "affaan-m/ECC",
+      "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
+      "url": "https://github.com/affaan-m/ECC",
+      "category": "技术动态",
+      "source": "GitHub",
+      "stars": 300864,
+      "id": 1,
+      "date": "2026-11-11",
+      "color": "#4A90D9"
+    },
+    {
+      "title": "Seeing the Small: Deformable Duality Mamba for Retinal Lesion Segmentation",
+      "summary": "Diabetic retinopathy (DR) lesions vary widely in shape, and microaneurysms (MAs) span only a few pixels. We hypothesize that modeling the spatial organization of lesion regions, with global context an",
+      "url": "http://arxiv.org/abs/2611.13514v1",
+      "category": "AI论文",
+      "source": "arXiv",
+      "id": 2,
+      "date": "2026-11-11",
+      "color": "#8B5CF6"
+    },
+    {
+      "title": "Evidential Deep Learning with conditional entropy for glaucoma detection",
+      "summary": "We propose a novel conditional entropy function as a basis for quantifying predictive uncertainty in Evidential Deep Learning (EDL) for glaucoma detection from retinal fundus images. Using the EyePACS",
+      "url": "http://arxiv.org/abs/2611.13513v1",
+      "category": "AI论文",
+      "source": "arXiv",
+      "id": 3,
+      "date": "2026-11-11",
+      "color": "#8B5CF6"
+    },
+    {
+      "title": "Nepali-English Code-Mixed Speech Recognition: Data Preparation and Adaptation of a Speech Foundation Model",
+      "summary": "Nepali speakers regularly mix English words into conversation, but multilingual speech recognisers often struggle with language switches and the writing script used for English words. We study how to ",
+      "url": "http://arxiv.org/abs/2611.13512v1",
+      "category": "AI论文",
+      "source": "arXiv",
+      "id": 4,
+      "date": "2026-11-11",
+      "color": "#8B5CF6"
+    },
+    {
+      "title": "Show HN: EasyFunctionCall – Converts OpenAPI specs to AI model func call params",
+      "summary": "Hacker News 热点讨论，1 点赞",
+      "url": "https://easyfunctioncall.com",
+      "category": "行业热点",
+      "source": "Hacker News",
+      "points": 1,
+      "id": 5,
+      "date": "2026-11-11",
+      "color": "#F59E0B"
+    },
+    {
+      "title": "Show HN: Revibing nanochat's inference model in C++ with ggml",
+      "summary": "Hacker News 热点讨论，5 点赞",
+      "url": "https://github.com/k-ye/nanochagg.ml",
+      "category": "行业热点",
+      "source": "Hacker News",
+      "points": 5,
+      "id": 6,
+      "date": "2026-11-11",
+      "color": "#F59E0B"
+    },
+    {
+      "title": "Distribution Shift Detection in Remote Sensing Imagery using Machine Learning Models",
+      "summary": "Remote sensing imagery acquired by Unmanned Aerial Vehicles (UAVs) supports wide range of applications; however, deploying machine learning (ML) models on resource-constrained aerial platforms introdu",
+      "url": "http://arxiv.org/abs/2611.13510v1",
+      "category": "AI论文",
+      "source": "arXiv",
+      "id": 7,
+      "date": "2026-11-11",
+      "color": "#8B5CF6"
+    },
+    {
+      "title": "Mobile AI Factory: Building Specialized Language Models for Your Mobile Device",
+      "summary": "Small language models (SLMs) running on mobile devices can keep user data private and work without connectivity. But they perform well only when fine-tuned for the target task and sized for the target",
+      "url": "http://arxiv.org/abs/2611.13509v1",
+      "category": "AI论文",
+      "source": "arXiv",
+      "id": 8,
+      "date": "2026-11-11",
+      "color": "#8B5CF6"
+    }
+  ]
+}
