@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-16",
+  "datetime": "2026-11-16 11:56:07",
+  "total": 10,
+  "items": [
+    {
+      "title": "morluto/rea",
+      "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "url": "https://github.com/morluto/rea",
+      "category": "技术动态",
+      "source": "GitHub",
+      "stars": 462250,
+      "id": 1,
+      "date": "2026-11-16",
+      "color": "#4A90D9"
+    },
+    {
+      "title": "obra/superpowers",
+      "summary": "An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers",
+      "category": "技术动态",
+      "source": "GitHub",
+      "stars": 318124,
+      "id": 2,
+      "date": "2026-11-16",
+      "color": "#4A90D9"
+    },
+    {
+      "title": "Sample-efficient prediction of high-entropy alloy strength through outcome-aware robust sequential learning",
+      "summary": "Accurate prediction of high-entropy alloy (HEA) strength can guide composition and processing decisions; however, obtaining tensile-test data for HEAs can be costly and experimentally demanding. This ",
+      "url": "http://arxiv.org/abs/2611.18462v1",
+      "category": "AI论文",
+      "source": "arXiv",
+      "id": 3,
+      "date": "2026-11-16",
+      "color": "#8B5CF6"
+    },
+    {
+      "title": "Callo: Serving Cache-Miss Requests with Speculative Decoding on Invalidated KV under Prefill-Decode Disaggregation",
+      "summary": "Agent sessions may involve frequent context edits, which effectively invalidate cached KV state and force requests to wait for re-prefill before decoding. We present Callo, a disaggregated serving sys",
+      "url": "http://arxiv.org/abs/2611.18459v1",
+      "category": "AI论文",
+      "source": "arXiv",
+      "id": 4,
+      "date": "2026-11-16",
+      "color": "#8B5CF6"
+    },
+    {
+      "title": "When to Trust Simulated Patient Responses:Support-Gated World Models for Vasopressor Decision Support",
+      "summary": "Clinical world models expose language-model agents to predicted patient responses, but simulations can be unreliable for poorly supported treatments or unfamiliar hospitals. We introduce Support-Gated",
+      "url": "http://arxiv.org/abs/2611.18458v1",
+      "category": "AI论文",
+      "source": "arXiv",
+      "id": 5,
+      "date": "2026-11-16",
+      "color": "#8B5CF6"
+    },
+    {
+      "title": "Ask HN: If you work at an enterprise, do you use Open Source LLM or GPT?",
+      "summary": "Hacker News 热点讨论，2 点赞",
+      "url": "https://news.ycombinator.com/item?id=38503835",
+      "category": "行业热点",
+      "source": "Hacker News",
+      "points": 2,
+      "id": 6,
+      "date": "2026-11-16",
+      "color": "#F59E0B"
+    },
+    {
+      "title": "Ask HN: Have LLM or generative AI made you more productive?",
+      "summary": "Hacker News 热点讨论，2 点赞",
+      "url": "https://news.ycombinator.com/item?id=41742430",
+      "category": "行业热点",
+      "source": "Hacker News",
+      "points": 2,
+      "id": 7,
+      "date": "2026-11-16",
+      "color": "#F59E0B"
+    },
+    {
+      "title": "affaan-m/ECC",
+      "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
+      "url": "https://github.com/affaan-m/ECC",
+      "category": "技术动态",
+      "source": "GitHub",
+      "stars": 303917,
+      "id": 8,
+      "date": "2026-11-16",
+      "color": "#4A90D9"
+    },
+    {
+      "title": "NousResearch/hermes-agent",
+      "summary": "The agent that grows with you",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "category": "技术动态",
+      "source": "GitHub",
+      "stars": 263674,
+      "id": 9,
+      "date": "2026-11-16",
+      "color": "#4A90D9"
+    },
+    {
+      "title": "Black-Box Uncertainty Quantification for Large Language Models via Ensemble-of-Ensembles",
+      "summary": "Reliable use of large language models (LLMs) requires uncertainty estimates that separate ambiguity intrinsic to a prompt from genuine knowledge gaps. Bayesian and deep-ensemble methods deliver this a",
+      "url": "http://arxiv.org/abs/2611.18453v1",
+      "category": "AI论文",
+      "source": "arXiv",
+      "id": 10,
+      "date": "2026-11-16",
+      "color": "#8B5CF6"
+    }
+  ]
+}
