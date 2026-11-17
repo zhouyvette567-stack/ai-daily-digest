@@ -1,0 +1,90 @@
+{
+  "date": "2026-11-17",
+  "datetime": "2026-11-17 13:48:20",
+  "total": 8,
+  "items": [
+    {
+      "title": "openclaw/openclaw",
+      "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "url": "https://github.com/openclaw/openclaw",
+      "category": "技术动态",
+      "source": "GitHub",
+      "stars": 394610,
+      "id": 1,
+      "date": "2026-11-17",
+      "color": "#4A90D9"
+    },
+    {
+      "title": "STA: A Split Temporal Adversary Method for Evaluating Robustness of Multimodal RL-based Driving Policies",
+      "summary": "Multimodal reinforcement learning (MRL) offers a promising paradigm for autonomous driving by jointly leveraging complementary sensor observations to learn effective decision-making policies. However,",
+      "url": "http://arxiv.org/abs/2611.20765v1",
+      "category": "AI论文",
+      "source": "arXiv",
+      "id": 2,
+      "date": "2026-11-17",
+      "color": "#8B5CF6"
+    },
+    {
+      "title": "Instant Weight-Space Consolidation for Long-Term Memory in LLMs",
+      "summary": "Agentic memory systems give LLMs persistent memory by extracting experience into text and retrieving it at query time, but the model itself does not evolve: however many interactions it has had, it st",
+      "url": "http://arxiv.org/abs/2611.20759v1",
+      "category": "AI论文",
+      "source": "arXiv",
+      "id": 3,
+      "date": "2026-11-17",
+      "color": "#8B5CF6"
+    },
+    {
+      "title": "GPRM: Global Perspective Process Reward Model",
+      "summary": "Process Reward Models (PRMs) are widely used for step-level evaluation of multi-step reasoning in large language models, but existing methods are often limited by weak historical dependency modeling a",
+      "url": "http://arxiv.org/abs/2611.20755v1",
+      "category": "AI论文",
+      "source": "arXiv",
+      "id": 4,
+      "date": "2026-11-17",
+      "color": "#8B5CF6"
+    },
+    {
+      "title": "Show HN: EasyFunctionCall – Converts OpenAPI specs to AI model func call params",
+      "summary": "Hacker News 热点讨论，1 点赞",
+      "url": "https://easyfunctioncall.com",
+      "category": "行业热点",
+      "source": "Hacker News",
+      "points": 1,
+      "id": 5,
+      "date": "2026-11-17",
+      "color": "#F59E0B"
+    },
+    {
+      "title": "Show HN: Revibing nanochat's inference model in C++ with ggml",
+      "summary": "Hacker News 热点讨论，5 点赞",
+      "url": "https://github.com/k-ye/nanochagg.ml",
+      "category": "行业热点",
+      "source": "Hacker News",
+      "points": 5,
+      "id": 6,
+      "date": "2026-11-17",
+      "color": "#F59E0B"
+    },
+    {
+      "title": "Who Benefits from Telemonitoring? Uplift Modelling of a Nationwide Home Blood Pressure Monitoring Programme",
+      "summary": "Home blood pressure (BP) telemonitoring programmes are being deployed at national scale, yet enrolment resources are finite and the benefit of telemonitoring is unlikely to be uniform across patients.",
+      "url": "http://arxiv.org/abs/2611.20752v1",
+      "category": "AI论文",
+      "source": "arXiv",
+      "id": 7,
+      "date": "2026-11-17",
+      "color": "#8B5CF6"
+    },
+    {
+      "title": "GainCtrl: Predicting Remaining Gains for Efficient LLM Agent Execution",
+      "summary": "Large language models (LLMs) are widely used to power agents that interact with tools and environments to solve complex tasks. Repeated attempts improve the quality of tool-using agents, but continued",
+      "url": "http://arxiv.org/abs/2611.20736v1",
+      "category": "AI论文",
+      "source": "arXiv",
+      "id": 8,
+      "date": "2026-11-17",
+      "color": "#8B5CF6"
+    }
+  ]
+}
