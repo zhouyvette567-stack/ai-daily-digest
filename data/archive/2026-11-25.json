@@ -1,0 +1,90 @@
+{
+  "date": "2026-11-25",
+  "datetime": "2026-11-25 14:11:49",
+  "total": 8,
+  "items": [
+    {
+      "title": "DietrichGebert/ponytail",
+      "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "category": "技术动态",
+      "source": "GitHub",
+      "stars": 198197,
+      "id": 1,
+      "date": "2026-11-25",
+      "color": "#4A90D9"
+    },
+    {
+      "title": "OmniAct: One Policy, One Million Embodiments",
+      "summary": "A single policy that controls diverse robots must not only transfer task knowledge across embodiments, but also adapt its behavior to each robot's capabilities. Existing approaches facilitate transfer",
+      "url": "http://arxiv.org/abs/2611.33158v1",
+      "category": "AI论文",
+      "source": "arXiv",
+      "id": 2,
+      "date": "2026-11-25",
+      "color": "#8B5CF6"
+    },
+    {
+      "title": "DiaCap: Jointly Learning Who Speaks When for Audiovisual Dialogue Captioning",
+      "summary": "We present DiaCap, an audiovisual LLM for comprehensive dialogue captioning, which produces the transcript, timestamps, and a visual description of the speaker for every utterance in a video. Consider",
+      "url": "http://arxiv.org/abs/2611.33153v1",
+      "category": "AI论文",
+      "source": "arXiv",
+      "id": 3,
+      "date": "2026-11-25",
+      "color": "#8B5CF6"
+    },
+    {
+      "title": "BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scientific Articles",
+      "summary": "The development of biomedical vision-language models (VLMs) with contrastive image-text pretraining has been driven by scaling to increasingly large and diverse image-text datasets. Beyond scaling, fu",
+      "url": "http://arxiv.org/abs/2611.33151v1",
+      "category": "AI论文",
+      "source": "arXiv",
+      "id": 4,
+      "date": "2026-11-25",
+      "color": "#8B5CF6"
+    },
+    {
+      "title": "Show HN: EasyFunctionCall – Converts OpenAPI specs to AI model func call params",
+      "summary": "Hacker News 热点讨论，1 点赞",
+      "url": "https://easyfunctioncall.com",
+      "category": "行业热点",
+      "source": "Hacker News",
+      "points": 1,
+      "id": 5,
+      "date": "2026-11-25",
+      "color": "#F59E0B"
+    },
+    {
+      "title": "Show HN: Revibing nanochat's inference model in C++ with ggml",
+      "summary": "Hacker News 热点讨论，5 点赞",
+      "url": "https://github.com/k-ye/nanochagg.ml",
+      "category": "行业热点",
+      "source": "Hacker News",
+      "points": 5,
+      "id": 6,
+      "date": "2026-11-25",
+      "color": "#F59E0B"
+    },
+    {
+      "title": "CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies",
+      "summary": "Reasoning models become long-horizon agents through reinforcement learning or, more cheaply, through fine-tuning on a stronger teacher's trajectories, which contain the teacher's chain-of-thought as w",
+      "url": "http://arxiv.org/abs/2611.33148v1",
+      "category": "AI论文",
+      "source": "arXiv",
+      "id": 7,
+      "date": "2026-11-25",
+      "color": "#8B5CF6"
+    },
+    {
+      "title": "iWAM: Efficient Action Prediction from World Models without Explicit Future Prediction",
+      "summary": "World-action models (WAMs) build policies on pretrained video-generation models, on the premise that predicting how a scene evolves helps determine how to act. However, generating future scenes is exp",
+      "url": "http://arxiv.org/abs/2611.33141v1",
+      "category": "AI论文",
+      "source": "arXiv",
+      "id": 8,
+      "date": "2026-11-25",
+      "color": "#8B5CF6"
+    }
+  ]
+}
